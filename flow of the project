@@ -1,0 +1,9 @@
+To create environment :
+             -- python -m venv task_app
+              source task_app/bin/activate  # On Windows, use task_app\Scripts\activate
+
+install libraries :
+       -- pip install pandas scikit-learn
+
+run the command : 
+        python task_manager.py
